@@ -10,3 +10,6 @@ Today I Learned
   - GitHub
   - Nontion
   - Slack
+  - 업데이트
+  ㅇㄹㅇㄹㅇㄹㅇㄹㅇㄹ
+
